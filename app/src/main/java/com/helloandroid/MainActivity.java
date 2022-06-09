@@ -1,4 +1,4 @@
-package com.helloworld;
+package com.helloandroid;
 
 import android.os.Bundle;
 
